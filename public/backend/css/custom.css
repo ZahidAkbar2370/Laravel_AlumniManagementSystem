@@ -1,0 +1,46 @@
+btn-primary{background: #3dd0e3 !important;}
+.btn-outline-primary{border: 1px solid #3dd0e3 !important;}
+.btn-outline-primary:hover{color: #3dd0e3 !important;}
+.btn-outline-primary:not(:disabled):not(.disabled):active, .btn-outline-primary:not(:disabled):not(.disabled).active, .show > .btn-outline-primary.dropdown-toggle{background: #3dd0e3 !important; border-color: #3dd0e3 !important; color: #fff !important}
+.select2-container--default .select2-selection--single{border: 1px solid #d9d9d9 !important; }
+.select2-container--classic.select2-container--open .select2-selection--single, .select2-container--default.select2-container--open .select2-selection--single{border-color: #3dd0e3 !important;}
+.select2-container .select2-selection--single{height: 41px !important;}
+.select2-container--default .select2-search--dropdown .select2-search__field{outline: none !important;}
+.w-30{width: 30% !important; border-right: none !important;}
+.vs-checkbox-primary input:checked ~ .vs-checkbox{border-color: #3dd0e3 !important;}
+.vs-checkbox-con input:checked ~ .vs-checkbox .vs-checkbox--check .vs-icon{background: #3dd0e3 !important;}
+.bg-theme{background: #3dd0e3 !important;}
+.main-menu.menu-light .navigation > li.active > a{background: linear-gradient(
+118deg, #3dd0e3, rgba(115, 103, 240, 0.7)) !important; box-shadow: 0 0 10px 1px 0 0 10px 1px rgb(77 199 230) !important;
+    color: #fff !important;}
+.main-menu .navbar-header .navbar-brand .brand-text{color: #3dd0e3 !important}
+.header-navbar .navbar-container ul.nav li.dropdown-user .dropdown-menu-right .dropdown-item:hover, .header-navbar .navbar-container ul.nav li.dropdown-user .dropdown-menu-right .dropdown-item:active{background: #3dd0e3 !important;  color: #fff !important;}
+.primary{color: #3dd0e3 !important;}
+.modal .modal-header .close span{color: #3dd0e3 !important;}
+
+.app-content .wizard > .steps > ul > li.current .step{border-color: #3dd0e3 !important; background-color: #3dd0e3 !important;}
+.app-content .wizard > .steps > ul > li.current > a{color: #31353d !important;}
+.app-content .wizard > .steps > ul > li.disabled a{color: #31353d !important;}
+.error{color: #ea5455 !important; margin: 1px !important;}
+input.error{border: 1px solid #ea5455 !important;}
+select.error{border: 1px solid #ea5455 !important;}
+
+.app-content .wizard > .actions > ul > li > a[href="#previous"]{color: #fff !important;}
+.app-content .wizard > .actions > ul > li > a{color: #fff !important;}
+
+.app-content .wizard > .steps > ul > li.error .step{border-color: #ea5455 !important; cursor: pointer !important; color: #fff !important; background-color: #ea5455 !important;}
+.upload-file{padding: 58px;border: 2px dashed #3dd0e3;background: #f8f8f8;}
+.upload-file i{font-size: 100px; vertical-align: middle; text-align: center; color: #3dd0e3;}
+
+.select2-container--classic .select2-selection--single:focus, .select2-container--default .select2-selection--single:focus{border-color: #3dd0e3 !important;}
+
+.main-menu.menu-light .navigation li a{color: #565656 !important;}
+.header-navbar .navbar-container ul.nav li > a.nav-link{color: #565656 !important;}
+
+.custom_btn{background: #3dd0e3;outline: none;border: none;padding: 5px 12px 5px 12px;color: #fff;border-radius: 5px;}
+.nav.nav-pills .nav-item .nav-link.active{color: #fff !important;}
+.audio-btn-group{background-color: #f1f3f4 !important; padding-top: 6px !important; border-radius: 30px !important}
+.audio-btn-group a i{font-size: 20px !important; }
+.album_detail li {padding: 4px !important;}
+.distributethisrelase{margin-bottom: -38px !important; z-index: 110 !important;}
+.mll-1{margin-left: 6px;}
